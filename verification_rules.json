@@ -1,0 +1,52 @@
+{
+  "legacy_physical": {
+    "primary_methods": [
+      "ocr_forensics",
+      "database_lookup"
+    ],
+    "secondary_methods": [
+      "human_review"
+    ],
+    "confidence_threshold": 70,
+    "requires_manual_review": true,
+    "processing_time_estimate": "5-10 minutes"
+  },
+  "legacy_digital": {
+    "primary_methods": [
+      "database_lookup",
+      "digital_signature"
+    ],
+    "secondary_methods": [
+      "ocr_forensics"
+    ],
+    "confidence_threshold": 80,
+    "requires_manual_review": false,
+    "processing_time_estimate": "1-2 minutes"
+  },
+  "new_blockchain": {
+    "primary_methods": [
+      "blockchain_verification",
+      "digital_signature"
+    ],
+    "secondary_methods": [
+      "database_lookup"
+    ],
+    "confidence_threshold": 95,
+    "requires_manual_review": false,
+    "processing_time_estimate": "30 seconds"
+  },
+  "hybrid": {
+    "primary_methods": [
+      "blockchain_verification",
+      "database_lookup",
+      "digital_signature"
+    ],
+    "secondary_methods": [
+      "ocr_forensics",
+      "human_review"
+    ],
+    "confidence_threshold": 85,
+    "requires_manual_review": false,
+    "processing_time_estimate": "1-3 minutes"
+  }
+}

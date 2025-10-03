@@ -1,0 +1,17 @@
+{
+  "client_id": "your_digilocker_client_id",
+  "client_secret": "your_digilocker_client_secret",
+  "redirect_uri": "http://localhost:5000/digilocker/callback",
+  "scope": "openid profile email phone documents",
+  "nad_api_key": "your_nad_api_key",
+  "nad_client_id": "your_nad_client_id",
+  "session_timeout_hours": 24,
+  "cache_timeout_hours": 6,
+  "supported_document_types": [
+    "CERTIFICATE",
+    "MARKSHEET",
+    "DIPLOMA",
+    "DEGREE",
+    "TRANSCRIPT"
+  ]
+}

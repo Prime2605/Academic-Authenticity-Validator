@@ -1,0 +1,15 @@
+{
+  "cca_root_url": "https://cca.gov.in/api/v1",
+  "esign_service_url": "https://esignlive.com/api/packages",
+  "timestamp_authority": "http://timestamp.digicert.com",
+  "ocsp_responder": "http://ocsp.digicert.com",
+  "crl_distribution": "http://crl.digicert.com",
+  "key_size": 2048,
+  "hash_algorithm": "SHA-256",
+  "certificate_validity_days": 365,
+  "compliance_standards": [
+    "CCA_2000",
+    "IT_Act_2000",
+    "DSC_Guidelines_2009"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "institution_aliases": {
+    "iit_madras": [
+      "IIT Madras",
+      "Indian Institute of Technology Madras",
+      "IITM"
+    ],
+    "anna_university": [
+      "Anna University",
+      "AU",
+      "Anna Univ"
+    ],
+    "loyola_college": [
+      "Loyola College",
+      "Loyola College Chennai",
+      "LC"
+    ]
+  },
+  "degree_patterns": {
+    "bachelor_engineering": [
+      "B.E.",
+      "BE",
+      "Bachelor of Engineering",
+      "B.Eng"
+    ],
+    "bachelor_technology": [
+      "B.Tech",
+      "BTech",
+      "Bachelor of Technology",
+      "B.Tech."
+    ],
+    "master_science": [
+      "M.S.",
+      "MS",
+      "Master of Science",
+      "M.Sc",
+      "MSc"
+    ]
+  },
+  "common_misspellings": {
+    "engineering": [
+      "engg",
+      "enginering",
+      "enginnering"
+    ],
+    "university": [
+      "univercity",
+      "universty",
+      "univeristy"
+    ],
+    "technology": [
+      "tecnology",
+      "techology",
+      "technolgy"
+    ]
+  }
+}

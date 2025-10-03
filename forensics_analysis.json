@@ -1,0 +1,163 @@
+{
+  "analyzed_documents": [
+    {
+      "analysis_id": "9b0b02d9b91e",
+      "timestamp": "2025-09-29T20:59:46.409690",
+      "ocr_analysis": {
+        "error": "OCR extraction failed: tesseract is not installed or it's not in your PATH. See README file for more information.",
+        "extracted_text": "",
+        "confidence_scores": [],
+        "average_confidence": 0
+      },
+      "forensics_analysis": {
+        "timestamp": "2025-09-29T20:59:46.290900",
+        "image_hash": "18873f2facfdcd8c3695890b84968e5d64d5030fdfd14d00a967fb6500b0a000",
+        "analysis_results": {
+          "edge_density": 0.07197806446240684,
+          "noise_variance": 520.805908203125,
+          "compression_artifacts": 0.9178202748298645,
+          "font_consistency": 232.18133566158517,
+          "color_histogram_variance": 469723808.0
+        },
+        "forgery_probability": 0.5335452302989631,
+        "authenticity_level": "UNCERTAIN"
+      },
+      "extracted_fields": {},
+      "overall_confidence": 27.99,
+      "recommendation": "MANUAL_REVIEW: Insufficient confidence for automated decision"
+    },
+    {
+      "analysis_id": "6fb296fc852a",
+      "timestamp": "2025-09-29T21:20:46.059570",
+      "ocr_analysis": {
+        "error": "OCR extraction failed: tesseract is not installed or it's not in your PATH. See README file for more information.",
+        "extracted_text": "",
+        "confidence_scores": [],
+        "average_confidence": 0
+      },
+      "forensics_analysis": {
+        "timestamp": "2025-09-29T21:20:45.890923",
+        "image_hash": "964f3b78cdaef4c066c0f6819369863f213e77f8f606568ee41b3dd9db1a344d",
+        "analysis_results": {
+          "edge_density": 0.06299392361111111,
+          "noise_variance": 12587.6845703125,
+          "compression_artifacts": 1.059501051902771,
+          "font_consistency": 54.08999081726354,
+          "color_histogram_variance": 14694467584.0
+        },
+        "forgery_probability": 0.49151032952489493,
+        "authenticity_level": "UNCERTAIN"
+      },
+      "extracted_fields": {},
+      "overall_confidence": 30.51,
+      "recommendation": "MANUAL_REVIEW: Insufficient confidence for automated decision"
+    },
+    {
+      "analysis_id": "6042d89a968a",
+      "timestamp": "2025-09-29T21:21:06.143134",
+      "ocr_analysis": {
+        "error": "OCR extraction failed: tesseract is not installed or it's not in your PATH. See README file for more information.",
+        "extracted_text": "",
+        "confidence_scores": [],
+        "average_confidence": 0
+      },
+      "forensics_analysis": {
+        "timestamp": "2025-09-29T21:21:06.058175",
+        "image_hash": "b972fe8f4374f95eaf214809ec7b4043f59b3300415c00562e80384ec00487bd",
+        "analysis_results": {
+          "edge_density": 0.13099678512168142,
+          "noise_variance": 3102.22705078125,
+          "compression_artifacts": 0.5729618668556213,
+          "font_consistency": 0.0,
+          "color_histogram_variance": 6933600256.0
+        },
+        "forgery_probability": 0.3378648093342781,
+        "authenticity_level": "LIKELY_AUTHENTIC"
+      },
+      "extracted_fields": {},
+      "overall_confidence": 39.73,
+      "recommendation": "MANUAL_REVIEW: Insufficient confidence for automated decision"
+    },
+    {
+      "analysis_id": "2458071f7cc1",
+      "timestamp": "2025-10-01T20:03:42.056899",
+      "ocr_analysis": {
+        "error": "OCR extraction failed: tesseract is not installed or it's not in your PATH. See README file for more information.",
+        "extracted_text": "",
+        "confidence_scores": [],
+        "average_confidence": 0
+      },
+      "forensics_analysis": {
+        "timestamp": "2025-10-01T20:03:41.934405",
+        "image_hash": "b972fe8f4374f95eaf214809ec7b4043f59b3300415c00562e80384ec00487bd",
+        "analysis_results": {
+          "edge_density": 0.13099678512168142,
+          "noise_variance": 3102.22705078125,
+          "compression_artifacts": 0.5729618668556213,
+          "font_consistency": 0.0,
+          "color_histogram_variance": 6933600256.0
+        },
+        "forgery_probability": 0.3378648093342781,
+        "authenticity_level": "LIKELY_AUTHENTIC"
+      },
+      "extracted_fields": {},
+      "overall_confidence": 39.73,
+      "recommendation": "MANUAL_REVIEW: Insufficient confidence for automated decision"
+    },
+    {
+      "analysis_id": "697d304c7138",
+      "timestamp": "2025-10-01T23:13:04.807652",
+      "ocr_analysis": {
+        "error": "OCR extraction failed: tesseract is not installed or it's not in your PATH. See README file for more information.",
+        "extracted_text": "",
+        "confidence_scores": [],
+        "average_confidence": 0
+      },
+      "forensics_analysis": {
+        "timestamp": "2025-10-01T23:13:04.731796",
+        "image_hash": "b972fe8f4374f95eaf214809ec7b4043f59b3300415c00562e80384ec00487bd",
+        "analysis_results": {
+          "edge_density": 0.13099678512168142,
+          "noise_variance": 3102.22705078125,
+          "compression_artifacts": 0.5729618668556213,
+          "font_consistency": 0.0,
+          "color_histogram_variance": 6933600256.0
+        },
+        "forgery_probability": 0.3378648093342781,
+        "authenticity_level": "LIKELY_AUTHENTIC"
+      },
+      "extracted_fields": {},
+      "overall_confidence": 39.73,
+      "recommendation": "MANUAL_REVIEW: Insufficient confidence for automated decision"
+    },
+    {
+      "analysis_id": "096df4bd8b3a",
+      "timestamp": "2025-10-01T23:13:06.923674",
+      "ocr_analysis": {
+        "error": "OCR extraction failed: tesseract is not installed or it's not in your PATH. See README file for more information.",
+        "extracted_text": "",
+        "confidence_scores": [],
+        "average_confidence": 0
+      },
+      "forensics_analysis": {
+        "timestamp": "2025-10-01T23:13:06.846299",
+        "image_hash": "b972fe8f4374f95eaf214809ec7b4043f59b3300415c00562e80384ec00487bd",
+        "analysis_results": {
+          "edge_density": 0.13099678512168142,
+          "noise_variance": 3102.22705078125,
+          "compression_artifacts": 0.5729618668556213,
+          "font_consistency": 0.0,
+          "color_histogram_variance": 6933600256.0
+        },
+        "forgery_probability": 0.3378648093342781,
+        "authenticity_level": "LIKELY_AUTHENTIC"
+      },
+      "extracted_fields": {},
+      "overall_confidence": 39.73,
+      "recommendation": "MANUAL_REVIEW: Insufficient confidence for automated decision"
+    }
+  ],
+  "forgery_patterns": [],
+  "genuine_patterns": [],
+  "ml_training_data": []
+}

@@ -1,0 +1,29 @@
+{
+  "total_processed": 8,
+  "by_type": {
+    "legacy_physical": 6,
+    "legacy_digital": 0,
+    "new_blockchain": 2,
+    "hybrid": 0
+  },
+  "by_result": {
+    "verified": 0,
+    "rejected": 8,
+    "pending_review": 0
+  },
+  "average_processing_time": {
+    "new_blockchain": [
+      0.000148,
+      0.000135
+    ],
+    "legacy_physical": [
+      2.385596,
+      2.89489,
+      1.319337,
+      1.82585,
+      1.777779,
+      1.492603
+    ]
+  },
+  "last_updated": "2025-10-01T23:13:06.926910"
+}

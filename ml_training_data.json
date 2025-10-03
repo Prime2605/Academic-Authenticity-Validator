@@ -1,0 +1,31 @@
+{
+  "forgery_detection": {
+    "features": [],
+    "labels": [],
+    "feature_names": [
+      "edge_density",
+      "noise_variance",
+      "compression_artifacts",
+      "font_consistency",
+      "color_histogram_variance",
+      "text_alignment",
+      "logo_similarity",
+      "paper_texture",
+      "ink_consistency"
+    ]
+  },
+  "authenticity_classification": {
+    "features": [],
+    "labels": [],
+    "classes": [
+      "GENUINE",
+      "FORGED",
+      "SUSPICIOUS",
+      "UNCERTAIN"
+    ]
+  },
+  "institution_matching": {
+    "institution_features": [],
+    "similarity_scores": []
+  }
+}
